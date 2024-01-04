@@ -1,2 +1,2 @@
 # go-quiz
-Quiz game made witgh Go Lang
+Quiz game made with Go Lang
